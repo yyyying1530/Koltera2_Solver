@@ -1,0 +1,6 @@
+name,biome,trait,weight_power,weight_grit,weight_agility,weight_smart,weight_looting,weight_luck,rank,required_score,exp
+Expedition Training,Plains,Learner,0.25,0.25,0.25,0.25,0.0,0.0,1,1.0,300
+Expedition Training,Plains,Learner,0.25,0.25,0.25,0.25,0.0,0.0,2,1.0,360
+Expedition Training,Plains,Learner,0.25,0.25,0.25,0.25,0.0,0.0,3,2.0,420
+Expedition Training,Plains,Learner,0.25,0.25,0.25,0.25,0.0,0.0,4,2.0,480
+Expedition Training,Plains,Learner,0.25,0.25,0.25,0.25,0.0,0.0,5,3.0,540
