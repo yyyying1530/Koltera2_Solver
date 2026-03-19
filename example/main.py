@@ -4,8 +4,8 @@ from cli import CLI
 
 def main():
     data_manager = DataManager(
-        creatures_path="../data/Creature.csv",
-        expedition_path="../data/Expedition.csv",
+        creatures_path="data/Creature.csv",
+        expedition_path="data/Expedition.csv",
     )
     data_manager.load()
 
